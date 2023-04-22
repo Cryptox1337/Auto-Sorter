@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto-Sorter", "Auto-Sorter\Auto-Sorter.csproj", "{F018742D-6767-469D-950D-8BDA028C1B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F018742D-6767-469D-950D-8BDA028C1B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F018742D-6767-469D-950D-8BDA028C1B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F018742D-6767-469D-950D-8BDA028C1B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F018742D-6767-469D-950D-8BDA028C1B98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CCF5CBB-435B-4AF7-B881-423E06F29B05}
+	EndGlobalSection
+EndGlobal
